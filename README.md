@@ -10,6 +10,9 @@ npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
+
+
+该工程已经导入了cjhcj-scroll插件，以下是滚动条的使用文档
 ```
 
 # 滚动条使用文档
