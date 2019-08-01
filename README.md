@@ -2,7 +2,6 @@
 
 > 运行本工程
 
-## Build Setup
 
 ``` bash
 # install dependencies
@@ -12,7 +11,7 @@ npm install
 npm run dev
 
 
-该工程已经导入了cjhcj-scroll插件，以下是滚动条的使用文档
+# 以下是滚动条的使用文档
 ```
 
 # 滚动条使用文档

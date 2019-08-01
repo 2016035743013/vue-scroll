@@ -13,7 +13,7 @@
 </template>
 
 <script>
-import ScrollBar from 'cjhcj-scroll'
+import ScrollBar from './components/scrollBar'
 export default {
   name: 'App',
   data() {
